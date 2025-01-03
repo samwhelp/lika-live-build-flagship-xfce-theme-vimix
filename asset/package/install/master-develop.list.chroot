@@ -1,0 +1,32 @@
+
+
+##
+## # Develop
+##
+
+
+
+
+##
+## ## Package / Develop
+##
+
+build-essential
+
+live-build
+
+debhelper
+
+dkms
+
+tree
+
+python3-github
+
+meld
+
+php-cli
+
+sassc
+
+optipng
